@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Crm1 from "../(crm)/Crm1"
 import Crm2 from "../(crm)/Crm2"

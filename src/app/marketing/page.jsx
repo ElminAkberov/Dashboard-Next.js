@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Marketing1 from "../(marketing)/Marketing1"
 import Marketing2 from "../(marketing)/Marketing2"

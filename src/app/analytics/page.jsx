@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Chart2 from "../(analytics)/Chart2"
 import Commerce3 from "../(commerce)/Commerce3"

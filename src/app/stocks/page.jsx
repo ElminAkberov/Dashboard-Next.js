@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Stocks1 from "../(stocks)/Stocks1"
 import Link from 'next/link'

@@ -1,3 +1,4 @@
+"use client"
 import Ecommerce from "../(commerce)/Ecommerce"
 import React from 'react'
 

@@ -5,10 +5,10 @@ const page = () => {
         <div className='mx-auto max-w-[60.625rem]'>
             <h1 className='text-2xl font-medium mb-5'>Profile</h1>
             <div className="relative ">
-                <img src="/assets/img/cover1.webp" alt="" />
+                <img src="/assets/img/cover1.webp" alt="brand1" />
                 <div className="absolute  w-full bottom-[-50px] flex justify-center  ">
                     <div className="absolute w-[152px] max-md:max-w-[112px] backdrop-blur-lg  h-[152px] max-md:max-h-[112px] rounded-full"></div>
-                    <img className=' p-3 mx-auto  drop-shadow-lg w-[152px] max-md:w-[112px] ' src="/assets/img/user6.webp" alt="" />
+                    <img className=' p-3 mx-auto  drop-shadow-lg w-[152px] max-md:w-[112px] ' src="/assets/img/user6.webp" alt="brand1" />
                 </div>
             </div>
             <div className="text-center pt-12 bg-white ">

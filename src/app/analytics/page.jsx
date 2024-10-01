@@ -66,7 +66,7 @@ const page = () => {
             <div className="">
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country1.svg" alt="" />
+                  <img src="/assets/img/country1.svg" alt="country1" />
                   United States
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -78,7 +78,7 @@ const page = () => {
               </div>
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country2.svg" alt="" />
+                  <img src="/assets/img/country2.svg" alt="country1" />
                   Canada
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -89,7 +89,7 @@ const page = () => {
               </div>
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country3.svg" alt="" />
+                  <img src="/assets/img/country3.svg" alt="country13" />
                   France
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -100,7 +100,7 @@ const page = () => {
               </div>
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country4.svg" alt="" />
+                  <img src="/assets/img/country4.svg" alt="country13" />
                   Italy
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -111,7 +111,7 @@ const page = () => {
               </div>
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country5.svg" alt="" />
+                  <img src="/assets/img/country5.svg" alt="country13" />
                   Australia
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -122,7 +122,7 @@ const page = () => {
               </div>
               <div className="flex flex-wrap justify-between items-center mb-2">
                 <div className="flex items-center gap-x-2">
-                  <img src="/assets/img/country6.svg" alt="" />
+                  <img src="/assets/img/country6.svg" alt="country13" />
                   India
                 </div>
                 <div className="h-[18px] relative bg-[#E5E7EB] rounded-sm w-[65%] max-[442px]:w-full">
@@ -230,7 +230,7 @@ const page = () => {
             <div className="p-5">
               <div className="grid grid-cols-5 text-sm max-md:grid-cols-3 items-center mb-7 pb-5 border-b ">
                 <div className="flex items-center gap-x-3">
-                  <img src="/assets/img/product1.webp" alt="" />
+                  <img src="/assets/img/product1.webp" alt="country13" />
                   <p>Apple Watch Series 7</p>
                 </div>
                 <h3 className="flex justify-center">Electronics</h3>
@@ -240,7 +240,7 @@ const page = () => {
               </div>
               <div className="grid grid-cols-5 text-sm max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                 <div className="flex items-center gap-x-3">
-                  <img src="/assets/img/product2.webp" alt="" />
+                  <img src="/assets/img/product2.webp" alt="country13" />
                   <p>Macbook Pro M1</p>
                 </div>
                 <h3 className="flex justify-center">Electronics</h3>
@@ -250,7 +250,7 @@ const page = () => {
               </div>
               <div className="grid grid-cols-5 text-sm max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                 <div className="flex items-center gap-x-3">
-                  <img src="/assets/img/product3.webp" alt="" />
+                  <img src="/assets/img/product3.webp" alt="country1" />
                   <p>
                     Dell Inspiron 15</p>
                 </div>
@@ -261,7 +261,7 @@ const page = () => {
               </div>
               <div className="grid grid-cols-5 text-sm max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                 <div className="flex items-center gap-x-3">
-                  <img src="/assets/img/product4.webp" alt="" />
+                  <img src="/assets/img/product4.webp" alt="country1" />
                   <p>
                     HP Probook 450</p>
                 </div>

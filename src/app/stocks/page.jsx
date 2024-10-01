@@ -26,7 +26,7 @@ const page = () => {
                 <div className="px-3 pb-5">
                     <Link href={"#"} className="flex justify-between hover:bg-[#F7F9FC] hover:text-[#386cce] items-center gap-x-3  p-[18px]">
                         <div className="flex gap-x-3 items-center">
-                            <img src="/assets/img/brand7.svg" alt="" />
+                            <img src="/assets/img/brand7.svg" alt="brand12324" />
                             <div className='font-medium'>
                                 Apple Inc
                                 <p className='text-xs text-[#64748b]'>16 Shares</p>
@@ -39,7 +39,7 @@ const page = () => {
                     </Link>
                     <Link href={"#"} className="flex justify-between hover:bg-[#F7F9FC] hover:text-[#386cce] items-center gap-x-3  p-[18px]">
                         <div className="flex gap-x-3 items-center">
-                            <img src="/assets/img/brand8.svg" alt="" />
+                            <img src="/assets/img/brand8.svg" alt="brand12324" />
                             <div className='font-medium'>
                                 Google
                                 <p className='text-xs text-[#64748b]'>100 Shares</p>
@@ -52,7 +52,7 @@ const page = () => {
                     </Link>
                     <Link href={"#"} className="flex justify-between hover:bg-[#F7F9FC] hover:text-[#386cce] items-center gap-x-3  p-[18px]">
                         <div className="flex gap-x-3 items-center">
-                            <img src="/assets/img/brand9.svg" alt="" />
+                            <img src="/assets/img/brand9.svg" alt="brand12324" />
                             <div className='font-medium'>
                                 Tesla
                                 <p className='text-xs text-[#64748b]'>20 Shares</p>
@@ -65,7 +65,7 @@ const page = () => {
                     </Link>
                     <Link href={"#"} className="flex justify-between hover:bg-[#F7F9FC] hover:text-[#386cce] items-center gap-x-3  p-[18px]">
                         <div className="flex gap-x-3 items-center">
-                            <img src="/assets/img/brand10.svg" alt="" />
+                            <img src="/assets/img/brand10.svg" alt="brand12324" />
                             <div className='font-medium'>
                                 Twitter X
                                 <p className='text-xs text-[#64748b]'>87 Shares</p>
@@ -78,7 +78,7 @@ const page = () => {
                     </Link>
                     <Link href={"#"} className="flex justify-between hover:bg-[#F7F9FC] hover:text-[#386cce] items-center gap-x-3  p-[18px]">
                         <div className="flex gap-x-3 items-center">
-                            <img src="/assets/img/brand11.svg" alt="" />
+                            <img src="/assets/img/brand11.svg" alt="brand12324" />
                             <div className='font-medium'>
                                 Microsoft
                                 <p className='text-xs text-[#64748b]'>37  Shares</p>

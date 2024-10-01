@@ -152,7 +152,7 @@ export default function RootLayout({ children }) {
                     <Link href={"/"} className='block my-2'>Data Tables <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
                     <Link href={"/"} className='block my-2'>Pricing Tables <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
                     <Link href={"/"} className='block my-2'>Error <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
-                    <Link href={"/"} className='block my-2'>Faq's <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
+                    <Link href={"/"} className='block my-2'>Faq&apos;s <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
                     <Link href={"/"} className='block my-2'>Teams <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
                     <Link href={"/"} className='block my-2'>Terms & Condition <span className='absolute text-xs bg-[#3c50e0] rounded font-medium right-4 text-white py-1 px-2'>Pro</span></Link>
                   </div>
@@ -202,7 +202,7 @@ export default function RootLayout({ children }) {
                   <div onClick={() => { setClose(!close) }} className="p-1 border rounded-sm mr-2">
                     <MenuIcon />
                   </div>
-                  <Image src={"/assets/img/logo-icon.svg"} width={32} height={32} />
+                  <Image src={"/assets/img/logo-icon.svg"} width={32} height={32} alt="icon" />
                 </div>
 
                 <div className="flex items-center max-md:hidden">
@@ -225,7 +225,7 @@ export default function RootLayout({ children }) {
                     </div>
                     <div className="flex items-center gap-x-4">
                       <div className="w-[48px] ">
-                        <Image src={"/assets/img/user.webp"} width={112} height={112} />
+                        <Image src={"/assets/img/user.webp"} width={112} height={112} alt="user"/>
                       </div>
                       <svg className="hidden fill-current sm:block" width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.410765 0.910734C0.736202 0.585297 1.26384 0.585297 1.58928 0.910734L6.00002 5.32148L10.4108 0.910734C10.7362 0.585297 11.2638 0.585297 11.5893 0.910734C11.9147 1.23617 11.9147 1.76381 11.5893 2.08924L6.58928 7.08924C6.26384 7.41468 5.7362 7.41468 5.41077 7.08924L0.410765 2.08924C0.0853277 1.76381 0.0853277 1.23617 0.410765 0.910734Z" fill=""></path></svg>
                     </div>

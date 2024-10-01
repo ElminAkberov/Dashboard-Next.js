@@ -95,7 +95,7 @@ const Ecommerce = () => {
                 <div className="p-5">
                     <div className="grid grid-cols-5 max-md:grid-cols-3 items-center mb-7 pb-5 border-b ">
                         <div className="flex items-center gap-x-3">
-                            <img src="/assets/img/brand1.svg" alt="" />
+                            <img src="/assets/img/brand1.svg" alt="brand1" />
                             <p>Google</p>
                         </div>
                         <h3 className="flex justify-center">3.5K</h3>
@@ -105,7 +105,7 @@ const Ecommerce = () => {
                     </div>
                     <div className="grid grid-cols-5 max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                         <div className="flex items-center gap-x-3">
-                            <img src="/assets/img/brand2.svg" alt="" />
+                            <img src="/assets/img/brand2.svg" alt="brand2" />
                             <p>Twitter</p>
                         </div>
                         <h3 className="flex justify-center">3.5K</h3>
@@ -115,7 +115,7 @@ const Ecommerce = () => {
                     </div>
                     <div className="grid grid-cols-5 max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                         <div className="flex items-center gap-x-3">
-                            <img src="/assets/img/brand3.svg" alt="" />
+                            <img src="/assets/img/brand3.svg" alt="brand13" />
                             <p>Github</p>
                         </div>
                         <h3 className="flex justify-center">3.5K</h3>
@@ -125,7 +125,7 @@ const Ecommerce = () => {
                     </div>
                     <div className="grid grid-cols-5 max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                         <div className="flex items-center gap-x-3">
-                            <img src="/assets/img/brand4.svg" alt="" />
+                            <img src="/assets/img/brand4.svg" alt="brand14" />
                             <p>Vimeo</p>
                         </div>
                         <h3 className="flex justify-center">3.5K</h3>
@@ -135,7 +135,7 @@ const Ecommerce = () => {
                     </div>
                     <div className="grid grid-cols-5 max-md:grid-cols-3 items-center mb-7 pb-5 border-b">
                         <div className="flex items-center gap-x-3">
-                            <img src="/assets/img/brand5.svg" alt="" />
+                            <img src="/assets/img/brand5.svg" alt="brand16" />
                             <p>Facebook</p>
                         </div>
                         <h3 className="flex justify-center">3.5K</h3>

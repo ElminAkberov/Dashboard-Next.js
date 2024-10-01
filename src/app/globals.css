@@ -1,27 +1,13 @@
+@font-face {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: normal;
+    src:url('/fonts/Satoshi-Regular.otf')
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
+.satoshi{font-family:"Satoshi";}
+.scrolls::-webkit-scrollbar {display: none;}
+.shadow-2 {box-shadow: 0px 5px 15px -3px rgba(0, 0, 0, 0.1);}
+.active {background-color: #333a48}
